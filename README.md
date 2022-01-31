@@ -14,6 +14,7 @@ Backend E-commerce inventory manager. Gives retailer the ability to manage store
 https://github.com/AllanaLeerskov/E-Commerce-backend
 
 ![Webpage Snapshot](images/screen-shot.png)
+Full video of application in images folder.
 
 ## Contribution
 Made with ❤️ by Allana
